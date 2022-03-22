@@ -1,0 +1,8 @@
+implies,→
+equivalence/iff,⇔
+negation/NOT,¬
+conjunction/AND,∧
+disjunction/OR,∨
+exclusive disjunction/XOR,⊕
+universal quantifier/for all,∀
+existential quantifier/there exists,∃
